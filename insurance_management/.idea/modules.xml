@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Book_App/.idea/Book_App.iml" filepath="$PROJECT_DIR$/../Book_App/.idea/Book_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../College/.idea/College.iml" filepath="$PROJECT_DIR$/../College/.idea/College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ecom/.idea/Ecom.iml" filepath="$PROJECT_DIR$/../Ecom/.idea/Ecom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Email_sending_flask/.idea/Email_sending_flask.iml" filepath="$PROJECT_DIR$/../Email_sending_flask/.idea/Email_sending_flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask_Admin/.idea/Flask_Admin.iml" filepath="$PROJECT_DIR$/../Flask_Admin/.idea/Flask_Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask_Project/.idea/Flask_Project.iml" filepath="$PROJECT_DIR$/../Flask_Project/.idea/Flask_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask_web_app_withmapping/.idea/Flask_web_app_withmapping.iml" filepath="$PROJECT_DIR$/../Flask_web_app_withmapping/.idea/Flask_web_app_withmapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inquiry_book/.idea/Inquiry_book_flask.iml" filepath="$PROJECT_DIR$/../Inquiry_book/.idea/Inquiry_book_flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mobile_app/.idea/Mobile_app.iml" filepath="$PROJECT_DIR$/../Mobile_app/.idea/Mobile_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/PYTHON_LOOPING.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/PYTHON_LOOPING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PYTHON_WORK/.idea/PYTHON_WORK.iml" filepath="$PROJECT_DIR$/../PYTHON_WORK/.idea/PYTHON_WORK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_SPA_project/.idea/Python_SPA_project.iml" filepath="$PROJECT_DIR$/../Python_SPA_project/.idea/Python_SPA_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium_pythonProject/.idea/Selenium_pythonProject.iml" filepath="$PROJECT_DIR$/../Selenium_pythonProject/.idea/Selenium_pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UNIT_TESTINNG/.idea/UNIT_TESTINNG.iml" filepath="$PROJECT_DIR$/../UNIT_TESTINNG/.idea/UNIT_TESTINNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../new_practice/complex/.idea/complex.iml" filepath="$PROJECT_DIR$/../new_practice/complex/.idea/complex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_stuff/.idea/django_stuff.iml" filepath="$PROJECT_DIR$/../django_stuff/.idea/django_stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/insurance_management.iml" filepath="$PROJECT_DIR$/.idea/insurance_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../loginapp_sessionconfig_restapi/.idea/loginapp_sessionconfig_restapi.iml" filepath="$PROJECT_DIR$/../loginapp_sessionconfig_restapi/.idea/loginapp_sessionconfig_restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_orm/.idea/python_orm.iml" filepath="$PROJECT_DIR$/../python_orm/.idea/python_orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_virtual_env/.idea/python_virtual_env.iml" filepath="$PROJECT_DIR$/../python_virtual_env/.idea/python_virtual_env.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sample/.idea/sample.iml" filepath="$PROJECT_DIR$/../sample/.idea/sample.iml" />
+    </modules>
+  </component>
+</project>
